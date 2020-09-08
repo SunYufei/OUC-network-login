@@ -1,7 +1,7 @@
 OUC实验室网络登录界面（10.81.2.6）更新后不能保存账户密码，使用此程序可实现一键登录，减少操作步骤
 # 使用方法
 
-1. 下载可执行文件 [login.exe]() 和运行脚本 [run.bat]()
+1. 下载可执行文件 [login.exe](https://github.com/SunYufei/OUC-network-login/releases/download/v1.0/login.exe) 和运行脚本 [run.bat](https://github.com/SunYufei/OUC-network-login/releases/download/v1.0/run.bat)
 2. 修改 `run.bat` 文件的内容，将 `USERNAME` 和 `PASSWORD` 替换为校园网账户密码
 3. 运行 `run.bat` 即可登录
 
