@@ -1,0 +1,1 @@
+login.exe -u USERNAME -p PASSWORD
